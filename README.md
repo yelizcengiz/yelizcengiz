@@ -2,6 +2,9 @@
   <img src="https://goldenowl-asia-assets-production.s3.ap-southeast-1.amazonaws.com/uploads/2025-05-08T15%3A13%3A19.901Z_software.jpeg" width="70%" alt="Banner" />
   
   <h1>Hi, I'm Yeliz ✨</h1>
+    🔭 I’m currently focusing on <b>Machine Learning</b> & <b>AI</b>.<br/>
+    🎮 Also, I am a <b>Game Developer</b>.<br/>
+    🕹️ <b>Latest Release:</b> Check out <a href="https://store.steampowered.com/app/3451560/PC_Store_Simulator/">PC Store Simulator</a> developed by <b>CS Forge</b>!
 </div>
 
 # 💻 Skills:
