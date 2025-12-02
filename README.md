@@ -1,44 +1,33 @@
-<div align="center">
-  <img src="https://goldenowl-asia-assets-production.s3.ap-southeast-1.amazonaws.com/uploads/2025-05-08T15%3A13%3A19.901Z_software.jpeg" width="100%" alt="Banner" />
-  
-  <h1>Hi, I'm Yeliz ✨</h1>
+<h2 align="left">Hi 👋! My name is Yeliz and I'm a Computer Engineer ✨</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
 </div>
 
-<hr/>
+###
 
-<div align="center">
-  <h3>Languages and Tools</h3>
-  
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a> 
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a> 
-  <a href="https://www.mathworks.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a> 
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a> 
-  <a href="https://unity.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
+<img align="right" height="150" src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?semt=ais_hybrid&w=740&q=80"  />
+
+###
+
+<div align="left">
+  <a href="https://tr.linkedin.com/in/yeliz-cengiz-3580b5254" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yelizcengiz&show_icons=true&locale=en&theme=transparent&hide_border=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yelizcengiz&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" height="180" alt="languages" />
-  
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yelizcengiz&theme=transparent&hide_border=true" alt="streak" />
-</div>
+###
