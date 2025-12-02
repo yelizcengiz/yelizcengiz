@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://goldenowl-asia-assets-production.s3.ap-southeast-1.amazonaws.com/uploads/2025-05-08T15%3A13%3A19.901Z_software.jpeg" width="100%" alt="Banner" />
+  <img src="https://goldenowl-asia-assets-production.s3.ap-southeast-1.amazonaws.com/uploads/2025-05-08T15%3A13%3A19.901Z_software.jpeg" width="70%" alt="Banner" />
   
   <h1>Hi, I'm Yeliz ✨</h1>
 </div>
