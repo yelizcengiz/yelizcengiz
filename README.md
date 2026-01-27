@@ -48,12 +48,11 @@
 
 </div>
 
-<br/><br/>
-
 ---
-
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=yelizcengiz&icon=0&color=0" />
+  <img src="https://komarev.com/ghpvc/?username=yelizcengiz&label=Profile%20Views&color=grey&style=flat" />
 </div>
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
