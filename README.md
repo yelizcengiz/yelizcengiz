@@ -2,12 +2,16 @@
   <p align="center">  
     <img src="https://goldenowl-asia-assets-production.s3.ap-southeast-1.amazonaws.com/uploads/2025-05-08T15%3A13%3A19.901Z_software.jpeg" width="70%" alt="Banner" />
   </p>
+
+ <br/>
   
   <h1>Hi, I'm Yeliz ✨</h1>
     🔭 I’m currently focusing on <b>Machine Learning</b> & <b>AI</b>.<br/>
     🎮 Also, I am a <b>Game Developer</b>.<br/>
     🕹️ <b>Latest Release:</b> Check out <a href="https://store.steampowered.com/app/3451560/PC_Store_Simulator/">PC Store Simulator</a> developed by <b>CS Forge</b>!
 </div>
+
+<br/><br/>
 
 # 💻 Skills:
 <div align="left">
@@ -27,13 +31,29 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
 </div>
+<br/><br/>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yelizcengiz&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=yelizcengiz&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yelizcengiz&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=yelizcengiz&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" />
+  
+  <br/><br/>
+
+  <img src="https://nirzak-streak-stats.vercel.app/?user=yelizcengiz&theme=transparent&hide_border=false" />
+  
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yelizcengiz&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+
+</div>
+
+<br/><br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yelizcengiz&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=yelizcengiz&icon=0&color=0" />
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
